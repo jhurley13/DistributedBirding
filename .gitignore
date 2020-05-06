@@ -1,0 +1,7 @@
+*.tgz
+data/interim
+data/processed
+data/raw
+reports/*
+
+
