@@ -3,6 +3,7 @@ Tool for planning distributed birding events using eBird data
 
 ### TL;DR SETUP
 - Replace the Contacts.csv file in data/external with your own contacts file.
+- Edit and put your eBirdCredentials.yml file in your home directory 
 - Run all cells in the Jupyter notebook, DistributedBirding.ipynb.
 
 ### How to Use
