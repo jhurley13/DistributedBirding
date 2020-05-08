@@ -1,6 +1,6 @@
 # DistributedBirding
 Tool for planning distributed birding events using eBird data  
-Birding together by birding apart...
+Birding together by birding apart...  
 ---
 
 ### TL;DR SETUP
