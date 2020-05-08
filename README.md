@@ -1,5 +1,7 @@
 # DistributedBirding
-Tool for planning distributed birding events using eBird data
+Tool for planning distributed birding events using eBird data  
+
+
 
 ### TL;DR SETUP
 - Replace the Contacts.csv file in data/external with your own contacts file.
